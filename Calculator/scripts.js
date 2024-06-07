@@ -1,5 +1,4 @@
 let screenValue = "0";
-
 function updateScreen() {
     const screen = document.getElementById("output");
     screen.innerText = screenValue;
